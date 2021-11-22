@@ -195,8 +195,8 @@ def r_ply(type_):
                 InlineKeyboardButton("📝 Ƥɭɑƴɭɩsʈ 📝", "playlist"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 owner 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
             ],
             [InlineKeyboardButton("❌ Ƈɭøsɘ ❌", "cls")],
         ]
@@ -416,8 +416,8 @@ async def m_cb(b, cb):
                     InlineKeyboardButton("📝 Ƥɭɑƴɭɩsʈ 📝", "playlist"),
                 ],
                 [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 owner 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
                ],
                 [InlineKeyboardButton("❌ Ƈɭøsɘ ❌", "cls")],
             ]
@@ -554,8 +554,8 @@ async def yt(_, message: Message):
                     InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
                ],
                 [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
             ]
@@ -605,8 +605,8 @@ async def yt(_, message: Message):
                     InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 owner 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
                 ],
                 [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
             ]
@@ -688,8 +688,8 @@ async def yt(_, message: Message):
                         InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
                     ],
                     [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 owner 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
                     ],
                     [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
                 ]
@@ -835,8 +835,8 @@ async def play(_, message: Message):
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 owner 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
             ],
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
@@ -977,8 +977,8 @@ async def deezer(client: Client, message_: Message):
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 owner 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
             ],
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
@@ -1115,8 +1115,8 @@ async def jiosaavn(client: Client, message_: Message):
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 owner 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
             ],
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
@@ -1220,8 +1220,8 @@ async def lol_cb(b, cb):
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
             [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"https://t.me/adityaserver"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/adityadiscus"),
+                    InlineKeyboardButton(text="🌐 owner 🌐", url=f"https://t.me/sakshii_xd"),
+                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"https://t.me/lovely_squad"),
             ],
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
